@@ -1,0 +1,16 @@
+/build
+bootstrap.*
+classic.json*
+modern.json*
+.sencha
+/ext/
+/TPcalc/
+/a.php
+/aaaaa.js
+/data_beauty.json
+/favicon.ico
+/favicon-16x16.png
+/favicon-194x194.png
+/request.http
+/TPcalc.zip
+/workspace.json

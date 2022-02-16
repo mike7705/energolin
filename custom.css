@@ -1,0 +1,12 @@
+.bold {
+    font-weight: 500;
+}
+.cell-wrap .x-gridcell-body-el{
+    white-space: normal !important;
+}
+.cell-wrap .x-gridcell-body-el::first-letter{
+     text-text-replace: uppercase;
+}
+.cell-black .x-input-el{
+    color: black;
+}

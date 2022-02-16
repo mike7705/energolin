@@ -1,0 +1,50 @@
+/*
+ * This file contains styling for the main List view.
+ */
+.aaaa{
+    font-size: inherit;
+}
+.bold {
+    font-weight: 500;
+}
+.cell-wrap .x-gridcell-body-el{
+    white-space: normal !important;
+}
+.second-title{
+    background-color: #2e7d32;
+    font-size: smaller;
+}
+.icon-user {
+    background-image: url("../TPcalc/images/user.png") !important;
+}
+
+.icon-user-add {
+    background-image: url("../TPcalc/images/user_add.gif") !important;
+}
+
+.icon-save {
+    background-image: url("../TPcalc/images/save.gif") !important;
+}
+
+.icon-reset {
+    background-image: url("../TPcalc/images/stop.png") !important;
+}
+
+.icon-grid {
+    background-image: url("../TPcalc/images/grid.png") !important;
+}
+
+.icon-add {
+    background-image: url("../TPcalc/images/add.png") !important;
+}
+
+.icon-delete {
+    background-image: url("../TPcalc/images/delete.png") !important;
+}
+.bg-dialog {
+    background-color: #2196f3;
+    color: white;
+}
+div.bbb > div.x-gridcell-body-el {
+    white-space: normal !important;
+}
